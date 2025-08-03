@@ -1,0 +1,35 @@
+.schedule-form {
+  padding: 1rem;
+  margin-top: 1rem;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 100%;
+}
+.schedule-form h4 {
+  margin-bottom: 1rem;
+  color: #003366;
+}
+.schedule-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+.schedule-form input,
+.schedule-form select {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+.schedule-form button {
+  padding: 10px;
+  background-color: #0072b1;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.schedule-msg {
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  padding: 1rem 2rem;
+  box-shadow: 0px 1px 6px rgba(0,0,0,0.1);
+}
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+.nav a {
+  text-decoration: none;
+  color: #0072b1;
+  font-weight: bold;
+}
+.logo a {
+  font-size: 1.5rem;
+  color: #333;
+}

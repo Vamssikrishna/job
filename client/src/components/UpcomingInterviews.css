@@ -1,0 +1,18 @@
+.interview-section {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.08);
+}
+.interview-section h3 {
+  color: #003366;
+  margin-bottom: 1rem;
+}
+.interview-card {
+  border-top: 1px solid #eee;
+  padding: 0.75rem 0;
+}
+.interview-card p {
+  margin: 4px 0;
+}

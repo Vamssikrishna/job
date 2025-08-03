@@ -1,0 +1,31 @@
+.seeker-dashboard {
+  padding: 2rem;
+  background-color: #f5f8fa;
+}
+
+.seeker-dashboard h2 {
+  color: #003366;
+  margin-bottom: 1rem;
+}
+
+.search-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.search-form input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.search-form button {
+  background-color: #0072b1;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

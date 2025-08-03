@@ -1,0 +1,25 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 1rem 2rem;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo {
+  width: 40px; /* adjust as needed */
+  height: auto;
+  margin-right: 10px;
+}
+
+.brand-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #003366;
+}

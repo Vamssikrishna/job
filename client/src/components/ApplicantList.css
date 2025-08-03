@@ -1,0 +1,29 @@
+.applicant-list {
+  margin-top: 2rem;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.1);
+}
+.applicant {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+.applicant a {
+  color: #0072b1;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.interview-btn {
+  margin-top: 0.5rem;
+  background-color: #27ae60;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+

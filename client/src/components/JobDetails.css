@@ -1,0 +1,16 @@
+.job-details {
+  background: #fff;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.job-details h2 {
+  color: #003366;
+}
+
+.job-details p {
+  margin-bottom: 10px;
+}
