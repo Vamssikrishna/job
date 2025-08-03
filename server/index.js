@@ -14,6 +14,9 @@ const cronJobs = require('./cron/cronJobs');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+app.get('/', (req, res) => {
+  res.send('Job Melaa Backend is running!');
+});
 app.use(cors({ origin: process.env.CLIENT_URL, credentials: true }));
 app.use(express.json());
 app.use('/uploads', express.static('uploads'));
